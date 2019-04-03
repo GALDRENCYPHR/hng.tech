@@ -93,9 +93,9 @@
      			</div>
      			<div class="col-md-3 col-sm-6 col-xs-12">
            <div class="intern-block border-blue">
-     					<img src="../app/img/about-talent.png" alt="">
-     					  <h6>Mark Essien</h6>
-                 <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+     					<img src="../app/img/Tolu.png" alt="">
+     					  <h6>Aina Tolulope Afolabi</h6>
+                 <p>I am an illustrator,designer and front-end developer.I love Making art and playing games.i work hard</p>
                  <ul class="list">
                  <li><a href="#" target="_blank"<i class="fab fa-twitter"></i></a></li>
                  <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
@@ -114,7 +114,7 @@
                  <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
                  <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
-     					    <a href="#" class="btn-view">view profile</a>
+     					    <a href="../intern/GALDRENCYPHR" class="btn-view">view profile</a>
      				</div>
      			</div>
      		</div>
